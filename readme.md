@@ -1,0 +1,1 @@
+# Welcome 2조 Team Git repo 입니다.
