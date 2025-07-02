@@ -45,4 +45,3 @@ if __name__ == "__main":
     # 평균 구하기
     avg_score = student.calculate_average()
     print(f"평균 점수는 {avg_score}점 입니다.")
-# asfdasfdafdsfafafafasfaafafa
