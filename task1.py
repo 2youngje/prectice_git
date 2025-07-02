@@ -12,6 +12,3 @@ class Student:
 # 위의 Student 클래스를 사용하여 학생 객체를 생성하고 study 메서드를 호출해보세요.
 # 이름, 나이 , 학년 = 홍박사, 15, 2
 # YOUR CODE HERE
-if __name__ == "__main__":  # taks1을 직접적으로 불렀을대만 실행하라
-    student =Student("홍박사", 15, 2)
-    student.study(5)
